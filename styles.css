@@ -1,0 +1,128 @@
+#header{
+  width:60px;
+  height: 60px;
+  text-align: center;
+  margin-left: 50%;
+}
+
+.navigation-bar {
+  display: flex;
+  justify-content: center;
+  font-size: 24px;
+  font-family: sans-serif;
+  position: relative;
+  background: #b9e567;
+
+  top: 0;
+  width: 100%;
+
+}
+
+
+
+.logo {
+  width: 200px;
+  height: 200px;
+  margin-left: 600px;
+  margin-top: 180px;
+}
+
+
+
+.item{
+  width: 200px;
+  height: 200px;
+}
+
+.home_page{
+  margin-left: 550px;
+}
+
+.contact{
+  font-family: 'Arimo', sans-serif;
+  font-size: 20px;
+  color: #fff;
+}
+
+.container{
+  margin-left: 25%;
+}
+
+.labeltext{
+  color:#fff;
+  font-family: Arimo, sans-serif;
+  font-weight: bold;
+}
+.textarea{
+  border-radius: 15px 30px;
+  border-width: medium;
+  border-color: #ff914d;
+  padding-top: 0;
+
+}
+
+.table-properties{
+  color: #fff;
+  font-family: Arimo, sans-serif;
+  display: block;
+  margin-left: 25%;
+  padding: 15px;
+
+}
+
+.cell-properties{
+  border-radius: 15px 30px;
+  margin-left: 30px;
+  color:#fff;
+  font-family: Arimo , sans-serif;
+  font-size: 18px;
+
+
+}
+p.cell-properties{
+  text-align:center;
+}
+p.contact{
+  margin-left: 48%;
+  margin-top: 7%;
+}
+
+label.contact{
+  margin-left: 30%;
+}
+p.home_page{
+  font-family: 'Arimo', sans-serif;
+  font-size: 20px;
+  color: #fff;
+}
+
+.navbutton{
+  background-color: #ff914d;
+  color:#fff;
+  border-radius: 15px 50px ;
+
+}
+.name {
+  width: 150px;
+  height: 50px;
+  margin-left: 630px;
+  margin-top: 150px;
+
+}
+
+body {
+  background-color: #b9e567;
+}
+
+a {
+  padding: 0 150px;
+  text-decoration: none;
+}
+
+li {
+  float: left;
+}
+
+ul {
+  list-style-type: none;
+}
